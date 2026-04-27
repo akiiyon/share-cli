@@ -48,7 +48,7 @@ program
       console.log(chalk.red(`\nError: File not found at ${filePath}`));
       return;
     }
-
+    
     console.log(chalk.cyan(`\n[Smart-Send] Preparing: ${path.basename(filePath)}`));
     console.log(chalk.yellow('Searching for active receivers on the network (5s)...'));
 
