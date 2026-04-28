@@ -117,11 +117,6 @@ testFile.txt
 - Streams for efficient file transfer
 - Commander for the CLI framework
 
-<<<<<<< HEAD
----
-=======
-👉 Add a short GIF or video here (highly recommended)
->>>>>>> 1f3f73bece71253b1b69b48d5aedf5cbfe234754
 
 ## Key Concepts
 
@@ -145,12 +140,6 @@ With ShareCLI, you can:
 
 ---
 
-## Limitations
-
-- Works only on the same local network
-- UDP discovery may be blocked on some corporate networks
-- P2P mode requires the CLI on both devices
-
 ---
 
 ## Future Improvements
@@ -160,12 +149,6 @@ With ShareCLI, you can:
 - Resume interrupted transfers
 - Multi-device selection
 - Full browser-based receiving
-
----
-
-## Demo
-
-Add a short GIF or video here.
 
 ---
 
