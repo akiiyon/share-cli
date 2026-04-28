@@ -117,7 +117,11 @@ testFile.txt
 - Streams for efficient file transfer
 - Commander for the CLI framework
 
+<<<<<<< HEAD
 ---
+=======
+👉 Add a short GIF or video here (highly recommended)
+>>>>>>> 1f3f73bece71253b1b69b48d5aedf5cbfe234754
 
 ## Key Concepts
 
@@ -171,6 +175,10 @@ Akshay Dhiman
 
 ---
 
+<<<<<<< HEAD
 ## License
 
 ISC
+=======
+MIT License
+>>>>>>> 1f3f73bece71253b1b69b48d5aedf5cbfe234754
