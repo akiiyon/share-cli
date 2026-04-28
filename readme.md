@@ -1,5 +1,7 @@
 # 🚀 ShareCLI — Local Network File Sharing Tool
 
+> ⚡ Send files instantly across devices on the same network — no cloud, no setup.
+
 A fast, zero-friction CLI tool to share files across devices on the same network using **UDP discovery + TCP transfer**, with a **browser-based fallback for universal access**.
 
 ---
@@ -35,20 +37,19 @@ Else → HTTP server + QR (fallback)
 ```bash
 npx share-js send file.txt
 📥 Install globally
-    npm install -g share-js
+npm install -g share-js
 🛠️ Clone locally
-    git clone https://github.com/your-username/share-cli.git
-    cd share-cli
-    npm install
-    npm link
-
+git clone https://github.com/your-username/share-cli.git
+cd share-cli
+npm install
+npm link
 🚀 Usage
 📤 Send a file
-    share-js send <file>
+share-js send <file>
 📥 Receive a file (auto-discovery)
-    share-js receive
+share-js receive
 📥 Manual receive (if discovery fails)
-    share-js receive <sender-ip>
+share-js receive <sender-ip>
 🌐 Web / Mobile Mode (No Setup Required)
 
 If no receiver is found, ShareCLI automatically switches to web mode.
@@ -98,7 +99,7 @@ P2P mode requires CLI on both devices
 🌐 Full browser-based receiving
 🧪 Demo
 
-👉 Add a short GIF or video here (recommended)
+👉 Add a short GIF or video here (highly recommended)
 
 👨‍💻 Author
 
