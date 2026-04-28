@@ -158,10 +158,8 @@ Akshay Dhiman
 
 ---
 
-<<<<<<< HEAD
 ## License
 
 ISC
 =======
 MIT License
->>>>>>> 1f3f73bece71253b1b69b48d5aedf5cbfe234754
